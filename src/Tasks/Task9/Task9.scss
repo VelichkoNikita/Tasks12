@@ -1,0 +1,10 @@
+
+.BgImg {
+height: 400px;
+width: 100%;
+background-image: url('../../Images/9Task/section-4-back@2x.jpg');
+background-size: cover;
+@media (max-width: 600px)  {
+background-position:left
+    }
+}
